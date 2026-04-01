@@ -1,4 +1,4 @@
-import React from "react";
+eggsimport React from "react";
 
 export default function BillCard({ bill }) {
   return (
